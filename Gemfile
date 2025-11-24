@@ -11,7 +11,7 @@ gem "turbo-rails",     "1.4.0"
 gem "stimulus-rails",  "1.2.1"
 gem "jbuilder",        "2.11.5"
 gem "puma", "~> 7.0"
-gem "bootsnap",        "1.16.0", require: false
+gem "bootsnap",        "1.19.0", require: false
 gem "concurrent-ruby", "1.3.4"
 
 group :development, :test do
